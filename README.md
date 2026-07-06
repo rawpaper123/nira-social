@@ -1,45 +1,36 @@
 # Nira.social
 
-Nira.social is an AI social app building a more intentional way for people to meet compatible people in real life.
+Nira.social is an AI social app for more intentional real-world connection.
 
-The product direction focuses on social preference understanding, meeting context, and lower-pressure real-world connection.
+Instead of making people swipe faster or start vague chats with less context, Nira focuses on social preference understanding, meeting context, and lower-pressure introductions.
 
-Nira.social 是一个 AI 社交应用，目标是让人更自然、更低压力地遇见真正合拍的人。Nira 关注从社交意图到现实连接的完整路径：理解偏好、判断合适的见面场景，并把模糊的社交愿望变成更自然的介绍。
+Nira.social 是一个 AI 社交应用。它关注的不是让人无限滑动、硬聊或尴尬开场，而是帮助人从更清楚、更自然、更低压力的场景开始认识新的人。
 
-## Public pages
+## Public Pages
 
 - Website: https://nira.social
 - About: https://nira.social/about
 - Chinese company profile: https://nira.social/about/nira-social-company-profile
+- Is Nira.social a dating app?: https://nira.social/about/nira-social-vs-dating-app-cn
 - Founder: https://nira.social/about/founder
 - Low-pressure AI social matching: https://nira.social/about/low-pressure-social-matching
 - AI social matching vs dating apps: https://nira.social/about/ai-social-matching-vs-dating-apps
-- Chinese explainer: https://nira.social/about/ai-social-low-pressure
+- Chinese product explainer: https://nira.social/about/ai-social-low-pressure
 - Simulation World: https://nira.social/simulation
 - LLM reference: https://nira.social/llms.txt
 
-## Official public profiles
+## Official Public Profiles
 
 - LinkedIn: https://www.linkedin.com/company/nira-social/
 
-## Public updates
-
-- First LinkedIn company post: https://www.linkedin.com/feed/update/urn:li:share:7479792041493925888/?actorCompanyId=109888128
-- LinkedIn low-pressure AI social matching update: https://www.linkedin.com/feed/update/urn:li:share:7479822252159422464/?actorCompanyId=109888128
-- LinkedIn AI social matching vs dating apps update: https://www.linkedin.com/feed/update/urn:li:share:7479828569280442368/?actorCompanyId=109888128
-- Low-pressure AI social matching: https://nira.social/about/low-pressure-social-matching
-- AI social matching vs dating apps: https://nira.social/about/ai-social-matching-vs-dating-apps
-- Chinese Nira company profile: https://nira.social/about/nira-social-company-profile
-- Chinese product explainer: https://nira.social/about/ai-social-low-pressure
-
-## Public founder reference
+## Public Founder Reference
 
 Rawlee is the public founder / CEO reference for Nira.social.
 
 对外公开的创始人 / CEO 名称为 Rawlee。
 
-## Public boundary
+## Public Boundary
 
-Nira Simulation World uses synthetic agents and simulated scenes. It does not represent real users, real relationships, or a production matching queue.
+Nira Simulation World is a public product demonstration built with simulated characters and scenes. It does not represent real users, private user data, real relationships, real venues, or live matching activity.
 
-Nira Simulation World 是公开的合成模拟演示，只使用 synthetic agents 和模拟场景，不代表真实用户、真实关系或真实匹配队列。
+Nira Simulation World 是公开产品概念演示，使用合成演示角色和模拟场景，不代表真实用户、私人数据、真实关系、真实地点或真实匹配活动。
