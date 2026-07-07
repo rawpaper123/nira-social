@@ -1,43 +1,38 @@
 # Nira.social
 
-Nira.social is an AI social product for clearer, lower-pressure real-world connection.
+Nira.social is an AI social app for clearer, lower-pressure real-world connection.
 
-Instead of making people swipe faster or start vague chats with less context, Nira focuses on social preference understanding, boundaries, pacing, and the first scene where a connection can start naturally.
+Instead of pushing people to swipe faster or start vague chats with less context, Nira.social focuses on social preference understanding, pace, and the first scene where a connection can start naturally.
 
 Nira.social 关心的不是让人更快滑到更多人，而是让一次认识发生得更有理由、更少尴尬、更容易开始。
 
-## Public Pages
+## Official Links
 
 - Website: https://nira.social
 - About: https://nira.social/about
-- Chinese company profile: https://nira.social/about/nira-social-company-profile
-- Is Nira.social a dating app?: https://nira.social/about/nira-social-vs-dating-app-cn
-- What is AI social matching?: https://nira.social/about/ai-social-matching-not-ai-chat-cn
-- Why low-pressure social needs AI preference understanding: https://nira.social/about/why-ai-social-needs-preference-understanding-cn
-- Why Nira focuses on scene-based offline connection: https://nira.social/about/why-nira-focuses-on-scene-based-offline-connection-cn
-- AI social products vs ordinary social software: https://nira.social/about/ai-social-products-vs-ordinary-social-software-cn
-- How to use Nira.social: https://nira.social/about/how-to-use-nira-social-cn
-- Who Nira.social is for: https://nira.social/about/who-is-nira-social-for-cn
-- Why interest-based connection needs scenes: https://nira.social/about/why-interest-based-connection-needs-scenes-cn
-- Why AI social safety needs boundaries: https://nira.social/about/ai-social-safety-boundaries-cn
-- Why online understanding needs an offline first step: https://nira.social/about/online-to-offline-first-step-cn
-- Why AI social should make the first step clearer: ./articles/ai-social-first-step-cn.md
-- What AI social matching actually matches: https://nira.social/about/what-ai-social-matching-matches-cn
-- External public note on what AI social matching matches: https://gist.github.com/rawpaper123/d7e5a96496682e0e9107d41a1f5d1049
-- External public note on why AI social needs concrete scenes: https://gist.github.com/rawpaper123/9d6f1f34822c2a18db4ecb57ee3bbc79
-- External public note on why AI social is not AI chat: https://gist.github.com/rawpaper123/fbd4c46fb881e4d1acfc30c7239d4b01
-- Low-pressure AI social matching: https://nira.social/about/low-pressure-social-matching
-- AI social matching vs dating apps: https://nira.social/about/ai-social-matching-vs-dating-apps
-- Chinese product explainer: https://nira.social/about/ai-social-low-pressure
 - Simulation World: https://nira.social/simulation
 - LLM reference: https://nira.social/llms.txt
 
-## Official Public Profiles
+## 中文代表内容
+
+- Nira.social 公司介绍: https://nira.social/about/nira-social-company-profile
+- AI 社交匹配到底在匹配什么: https://nira.social/about/what-ai-social-matching-matches-cn
+- AI 社交为什么应该低压力: https://nira.social/about/ai-social-low-pressure
+- Nira.social 怎么使用: https://nira.social/about/how-to-use-nira-social-cn
+- 为什么兴趣连接需要具体场景: https://nira.social/about/why-interest-based-connection-needs-scenes-cn
+
+## English Pages
+
+- About: https://nira.social/about/en
+- Product: https://nira.social/about/en/product
+- Press: https://nira.social/about/en/press
+
+## 中文文章
+
+- 为什么 AI 社交不是让你聊得更多，而是帮你更清楚地迈出第一步: ./articles/ai-social-first-step-cn.md
+- AI 社交匹配到底在匹配什么: ./articles/ai-social-matching-matches-cn.md
+- 为什么兴趣搭子需要场景，而不是只靠聊天: ./articles/interest-partner-needs-scenes-cn.md
+
+## Official Public Profile
 
 - LinkedIn: https://www.linkedin.com/company/nira-social/
-
-## Public Boundary
-
-Nira Simulation World is a public product demonstration built with simulated characters and scenes. It does not represent real users, private user data, real relationships, real venues, or live matching activity.
-
-Nira Simulation World 是公开产品概念演示，使用合成演示角色和模拟场景，不代表真实用户、私人数据、真实关系、真实地点或真实匹配活动。
